@@ -1,0 +1,19 @@
+logrotate state -- version 2
+"/home/student/.cache/upstart/dbus.log" 2019-6-19-17:2:53
+"/home/student/.cache/upstart/update-notifier-crash-_var_crash__usr_lib_vmware-tools_sbin64_vmtoolsd.1000.crash.log" 2019-6-19-17:0:0
+"/home/student/.cache/upstart/indicator-sound.log" 2019-6-19-17:2:53
+"/home/student/.cache/upstart/indicator-keyboard.log" 2019-6-19-17:0:0
+"/home/student/.cache/upstart/window-stack-bridge.log" 2019-6-19-17:2:53
+"/home/student/.cache/upstart/unity-settings-daemon.log" 2019-6-19-17:2:53
+"/home/student/.cache/upstart/unity7.log" 2019-6-19-17:2:53
+"/home/student/.cache/upstart/hud.log" 2019-6-19-17:0:0
+"/home/student/.cache/upstart/ssh-agent.log" 2019-6-19-17:2:53
+"/home/student/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_appstreamcli.0.crash.log" 2019-6-19-17:0:0
+"/home/student/.cache/upstart/indicator-printers.log" 2019-6-19-17:0:0
+"/home/student/.cache/upstart/bamfdaemon.log" 2019-6-19-17:0:0
+"/home/student/.cache/upstart/gpg-agent.log" 2019-6-19-17:2:53
+"/home/student/.cache/upstart/upstart-event-bridge.log" 2019-6-19-17:2:53
+"/home/student/.cache/upstart/update-notifier-release.log" 2019-6-19-17:0:0
+"/home/student/.cache/upstart/unity-panel-service.log" 2019-6-19-17:2:53
+"/home/student/.cache/upstart/gnome-keyring.log" 2019-6-19-17:0:0
+"/home/student/.cache/upstart/gnome-keyring-ssh.log" 2019-6-19-17:2:53
